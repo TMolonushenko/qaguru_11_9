@@ -1,0 +1,12 @@
+{
+  "name": "Tatyana",
+  "surname": "Molonushenko",
+  "favorit_misic": [
+    "Metalllica",
+    "Nirvana"
+  ],
+  "address": {
+    "street": "Oktyabrskaya",
+    "house": 38
+  }
+}
